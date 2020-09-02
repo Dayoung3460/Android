@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>짜장(4000원)</item>
+        <item>짬뽕(5000원)</item>
+        <item>우동(4500원)</item>
+    </string-array>
+</resources>
